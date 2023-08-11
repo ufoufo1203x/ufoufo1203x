@@ -3,8 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ufoufo1203x&label=Profile%20views&color=0e75b6&style=flat" alt="ufoufo1203x" /> </p>
 
+- 📝 I regularly write articles on [https://mirror.xyz/0x652C3d8061C6dAbAD7340d39ac71b9F24C9E6cCc](https://mirror.xyz/0x652C3d8061C6dAbAD7340d39ac71b9F24C9E6cCc)
+
+- ⚡ Fun fact **super pumped**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@ufoufo1203x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ufoufo1203x" height="30" width="40" /></a>
 <a href="https://discord.gg/ufo4661" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ufo4661" height="30" width="40" /></a>
 </p>
 
